@@ -35,10 +35,9 @@ a {
 	text-decoration: none;
 }
 button {
-	background-color: #d7d7d7;
+	background-color: #ccc;
 	border: none;
 	padding: 10px 20px;
-	color: #333;
 	font-size: 100%;
 }
 
