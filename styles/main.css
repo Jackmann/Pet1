@@ -1,0 +1,43 @@
+body {
+	color: #665544;
+	font-family: Helvetica;
+	background-color: #d4d0c6;
+	background-image: url('../images/backdrop.gif');
+	text-align: center;
+}
+#page {
+	width: 50em;
+	margin: 0 auto;
+}
+.pic {
+	width: 220px;
+	float: left;
+	margin: 10px;
+	height: 265px;
+}
+figure {
+	display: block;
+	width: 202px;
+	height: 220px;
+	background-color: #e7e3d8;
+	padding: 10px;
+	text-align: left;
+}
+figure img {
+	width: 200px;
+	height: 200px;
+	border: 1px solid #d6d6d6;
+}
+figcaption {
+	background-image: url("../images/icon.png");
+	padding-left: 20px;
+	background-repeat: no-repeat;
+}
+h1 {
+	font-weight: normal;
+	color: white;
+}
+a {
+	text-decoration: none;
+	color: #663333;
+}
